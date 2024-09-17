@@ -30,3 +30,6 @@ For all SQL operations, you can refer to the [create_and_insert.sql](https://git
 - **Select from Orders**
 - **Select from Transactions**
 
+## 2.Business Questions and Answers Solving through PostgreSQL
+This section contains queries and solutions for common business questions using PostgreSQL.
+
