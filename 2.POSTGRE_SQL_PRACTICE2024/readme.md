@@ -1,4 +1,4 @@
-# SQL Table Creation and Data Insertion
+# 1. SQL Table Creation and Data Insertion
 
 This SQL file demonstrates the creation of several tables (Employees, Products, Customers, Orders, and Transactions) using SQL, along with sample data insertion.
 ## SQL Script File
