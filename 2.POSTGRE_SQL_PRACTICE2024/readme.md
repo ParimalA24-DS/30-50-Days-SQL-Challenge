@@ -33,3 +33,9 @@ For all SQL operations, you can refer to the [create_and_insert.sql](https://git
 ## 2.Business Questions and Answers Solving through PostgreSQL
 This section contains queries and solutions for common business questions using PostgreSQL.
 
+## 📫 How to Reach Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/ParimalA24-DS)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parimalautade)](https://www.linkedin.com/in/parimalautade)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:parimalautade24@gmail.com)
+
