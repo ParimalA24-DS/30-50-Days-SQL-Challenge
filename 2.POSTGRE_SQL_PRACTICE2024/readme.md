@@ -1,7 +1,7 @@
-# 1. SQL Table Creation and Data Insertion
+# <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="20" height="20"/> 🐘 1.SQL Table Creation and Data Insertion
 
-This SQL file demonstrates the creation of several tables (Employees, Products, Customers, Orders, and Transactions) using SQL, along with sample data insertion.
-## SQL Script File
+This SQL 1.file demonstrates the creation of several tables (Employees, Products, Customers, Orders, and Transactions) using SQL, along with sample data insertion.
+## 1.SQL Script File
 For all SQL operations, you can refer to the [create_and_insert.sql](https://github.com/ParimalA24-DS/30-50-Days-SQL-Challenge/blob/main/2.POSTGRE_SQL_PRACTICE2024/1.CREATE-INSERT-QUERIES.sql) file.
 
 ## SQL Operations
