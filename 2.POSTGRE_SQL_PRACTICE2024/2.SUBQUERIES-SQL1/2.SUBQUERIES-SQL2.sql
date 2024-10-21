@@ -1,0 +1,8 @@
+-- ANY: True if at least one value meets the condition.
+-- ALL: True only if every value meets the condition.
+-- EXISTS: True if the subquery returns one or more rows.
+-- NOT EXISTS: True if the subquery returns no rows.
+-- -- II. ANY, ALL, EXISTS, and NOT EXISTS operators in SQL SubQueries:
+-- 1. ANY:
+-- The ANY operator is used in a condition to compare a value to any value in a subquery.
+-- It returns true if the condition is true for at least one value in the result set of the subquery.
